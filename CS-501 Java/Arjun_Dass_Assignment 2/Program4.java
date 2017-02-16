@@ -1,4 +1,4 @@
-public class Program{
+public class Program4{
 
      private static final double constant = 6371.01;
 
