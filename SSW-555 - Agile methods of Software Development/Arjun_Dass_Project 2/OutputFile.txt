@@ -1,0 +1,402 @@
+0 HEAD
+Level:  0
+Tag:  HEAD
+1 SOUR Family Echo
+Level:  1
+Tag: TAG NOT SUPPORTED
+2 WWW http://www.familyecho.com/
+Level:  2
+Tag: TAG NOT SUPPORTED
+1 FILE Family 2
+Level:  1
+Tag: TAG NOT SUPPORTED
+1 DATE 30 JAN 2017
+Level:  1
+Tag:  DATE
+1 DEST ANSTFILE
+Level:  1
+Tag: TAG NOT SUPPORTED
+1 GEDC
+Level:  1
+Tag: Invalid Tag
+2 VERS 5.5.1
+Level:  2
+Tag: TAG NOT SUPPORTED
+2 FORM LINEAGE-LINKED
+Level:  2
+Tag: TAG NOT SUPPORTED
+1 SUBM @I5@
+Level:  1
+Tag: TAG NOT SUPPORTED
+2 NAME Arjun Dass
+Level:  2
+Tag:  NAME
+1 SUBN
+Level:  1
+Tag: Invalid Tag
+1 CHAR UTF-8
+Level:  1
+Tag: TAG NOT SUPPORTED
+0 @I1@ INDI
+Level:  0
+Tag:  INDI
+1 NAME John /Carter/
+Level:  1
+Tag:  NAME
+2 GIVN John
+Level:  2
+Tag: TAG NOT SUPPORTED
+2 SURN Carter
+Level:  2
+Tag: TAG NOT SUPPORTED
+1 SEX M
+Level:  1
+Tag:  SEX
+1 RESI
+Level:  1
+Tag: Invalid Tag
+2 EMAIL ad.sam007@gmail.com
+Level:  2
+Tag: TAG NOT SUPPORTED
+1 FAMS @F1@
+Level:  1
+Tag:  FAMS
+1 FAMC @F2@
+Level:  1
+Tag: TAG NOT SUPPORTED
+0 @I2@ INDI
+Level:  0
+Tag:  INDI
+1 NAME Lauren /Carter/
+Level:  1
+Tag:  NAME
+2 GIVN Lauren
+Level:  2
+Tag: TAG NOT SUPPORTED
+2 SURN Carter
+Level:  2
+Tag: TAG NOT SUPPORTED
+1 SEX F
+Level:  1
+Tag:  SEX
+1 FAMS @F1@
+Level:  1
+Tag:  FAMS
+0 @I3@ INDI
+Level:  0
+Tag:  INDI
+1 NAME Jsaon /Carter/
+Level:  1
+Tag:  NAME
+2 GIVN Jsaon
+Level:  2
+Tag: TAG NOT SUPPORTED
+2 SURN Carter
+Level:  2
+Tag: TAG NOT SUPPORTED
+1 SEX M
+Level:  1
+Tag:  SEX
+1 FAMC @F1@
+Level:  1
+Tag: TAG NOT SUPPORTED
+0 @I4@ INDI
+Level:  0
+Tag:  INDI
+1 NAME Susan /Carter/
+Level:  1
+Tag:  NAME
+2 GIVN Susan
+Level:  2
+Tag: TAG NOT SUPPORTED
+2 SURN Carter
+Level:  2
+Tag: TAG NOT SUPPORTED
+1 SEX F
+Level:  1
+Tag:  SEX
+1 FAMS @F2@
+Level:  1
+Tag:  FAMS
+0 @I5@ INDI
+Level:  0
+Tag:  INDI
+1 NAME Harry /Carter/
+Level:  1
+Tag:  NAME
+2 GIVN Harry
+Level:  2
+Tag: TAG NOT SUPPORTED
+2 SURN Carter
+Level:  2
+Tag: TAG NOT SUPPORTED
+1 SEX M
+Level:  1
+Tag:  SEX
+1 DEAT Y
+Level:  1
+Tag:  DEAT
+1 FAMS @F2@
+Level:  1
+Tag:  FAMS
+0 @I6@ INDI
+Level:  0
+Tag:  INDI
+1 NAME Rey /Carter/
+Level:  1
+Tag:  NAME
+2 GIVN Rey
+Level:  2
+Tag: TAG NOT SUPPORTED
+2 SURN Carter
+Level:  2
+Tag: TAG NOT SUPPORTED
+1 SEX M
+Level:  1
+Tag:  SEX
+1 FAMS @F3@
+Level:  1
+Tag:  FAMS
+1 FAMC @F2@
+Level:  1
+Tag: TAG NOT SUPPORTED
+0 @I7@ INDI
+Level:  0
+Tag:  INDI
+1 NAME Sara /Carter/
+Level:  1
+Tag:  NAME
+2 GIVN Sara
+Level:  2
+Tag: TAG NOT SUPPORTED
+2 SURN Carter
+Level:  2
+Tag: TAG NOT SUPPORTED
+1 SEX F
+Level:  1
+Tag:  SEX
+1 FAMS @F3@
+Level:  1
+Tag:  FAMS
+0 @I8@ INDI
+Level:  0
+Tag:  INDI
+1 NAME Hannah /Harper/
+Level:  1
+Tag:  NAME
+2 GIVN Hannah
+Level:  2
+Tag: TAG NOT SUPPORTED
+2 SURN Harper
+Level:  2
+Tag: TAG NOT SUPPORTED
+1 SEX F
+Level:  1
+Tag:  SEX
+1 FAMS @F4@
+Level:  1
+Tag:  FAMS
+1 FAMS @F5@
+Level:  1
+Tag:  FAMS
+1 FAMC @F2@
+Level:  1
+Tag: TAG NOT SUPPORTED
+0 @I9@ INDI
+Level:  0
+Tag:  INDI
+1 NAME Mark /Harper/
+Level:  1
+Tag:  NAME
+2 GIVN Mark
+Level:  2
+Tag: TAG NOT SUPPORTED
+2 SURN Harper
+Level:  2
+Tag: TAG NOT SUPPORTED
+1 SEX M
+Level:  1
+Tag:  SEX
+1 FAMS @F4@
+Level:  1
+Tag:  FAMS
+0 @I10@ INDI
+Level:  0
+Tag:  INDI
+1 NAME Sussie /Carter/
+Level:  1
+Tag:  NAME
+2 GIVN Sussie
+Level:  2
+Tag: TAG NOT SUPPORTED
+2 SURN Carter
+Level:  2
+Tag: TAG NOT SUPPORTED
+1 SEX F
+Level:  1
+Tag:  SEX
+1 FAMC @F3@
+Level:  1
+Tag: TAG NOT SUPPORTED
+0 @I11@ INDI
+Level:  0
+Tag:  INDI
+1 NAME Miley /Carter/
+Level:  1
+Tag:  NAME
+2 GIVN Miley
+Level:  2
+Tag: TAG NOT SUPPORTED
+2 SURN Carter
+Level:  2
+Tag: TAG NOT SUPPORTED
+1 SEX F
+Level:  1
+Tag:  SEX
+1 FAMC @F3@
+Level:  1
+Tag: TAG NOT SUPPORTED
+0 @I12@ INDI
+Level:  0
+Tag:  INDI
+1 NAME Jenny /Harper/
+Level:  1
+Tag:  NAME
+2 GIVN Jenny
+Level:  2
+Tag: TAG NOT SUPPORTED
+2 SURN Harper
+Level:  2
+Tag: TAG NOT SUPPORTED
+1 SEX F
+Level:  1
+Tag:  SEX
+1 FAMC @F4@
+Level:  1
+Tag: TAG NOT SUPPORTED
+0 @I13@ INDI
+Level:  0
+Tag:  INDI
+1 NAME Garry /Swanson/
+Level:  1
+Tag:  NAME
+2 GIVN Garry
+Level:  2
+Tag: TAG NOT SUPPORTED
+2 SURN Swanson
+Level:  2
+Tag: TAG NOT SUPPORTED
+1 SEX M
+Level:  1
+Tag:  SEX
+1 DEAT Y
+Level:  1
+Tag:  DEAT
+1 FAMS @F5@
+Level:  1
+Tag:  FAMS
+0 @I14@ INDI
+Level:  0
+Tag:  INDI
+1 NAME Rick /Swanson/
+Level:  1
+Tag:  NAME
+2 GIVN Rick
+Level:  2
+Tag: TAG NOT SUPPORTED
+2 SURN Swanson
+Level:  2
+Tag: TAG NOT SUPPORTED
+1 SEX M
+Level:  1
+Tag:  SEX
+1 FAMC @F5@
+Level:  1
+Tag: TAG NOT SUPPORTED
+0 @F1@ FAM
+Level:  0
+Tag:  FAM
+1 HUSB @I1@
+Level:  1
+Tag:  HUSB
+1 WIFE @I2@
+Level:  1
+Tag:  WIFE
+1 CHIL @I3@
+Level:  1
+Tag:  CHIL
+1 _CURRENT Y
+Level:  1
+Tag: TAG NOT SUPPORTED
+0 @F2@ FAM
+Level:  0
+Tag:  FAM
+1 HUSB @I5@
+Level:  1
+Tag:  HUSB
+1 WIFE @I4@
+Level:  1
+Tag:  WIFE
+1 CHIL @I1@
+Level:  1
+Tag:  CHIL
+1 CHIL @I6@
+Level:  1
+Tag:  CHIL
+1 CHIL @I8@
+Level:  1
+Tag:  CHIL
+1 _CURRENT Y
+Level:  1
+Tag: TAG NOT SUPPORTED
+0 @F3@ FAM
+Level:  0
+Tag:  FAM
+1 HUSB @I6@
+Level:  1
+Tag:  HUSB
+1 WIFE @I7@
+Level:  1
+Tag:  WIFE
+1 CHIL @I10@
+Level:  1
+Tag:  CHIL
+1 CHIL @I11@
+Level:  1
+Tag:  CHIL
+1 _CURRENT Y
+Level:  1
+Tag: TAG NOT SUPPORTED
+0 @F4@ FAM
+Level:  0
+Tag:  FAM
+1 HUSB @I9@
+Level:  1
+Tag:  HUSB
+1 WIFE @I8@
+Level:  1
+Tag:  WIFE
+1 CHIL @I12@
+Level:  1
+Tag:  CHIL
+1 _CURRENT Y
+Level:  1
+Tag: TAG NOT SUPPORTED
+0 @F5@ FAM
+Level:  0
+Tag:  FAM
+1 HUSB @I13@
+Level:  1
+Tag:  HUSB
+1 WIFE @I8@
+Level:  1
+Tag:  WIFE
+1 CHIL @I14@
+Level:  1
+Tag:  CHIL
+1 _CURRENT N
+Level:  1
+Tag: TAG NOT SUPPORTED
+0 TRLR
+Level:  0
+Tag:  TRLR
