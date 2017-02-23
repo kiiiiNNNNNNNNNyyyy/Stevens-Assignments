@@ -1,0 +1,78 @@
+Name: Arjun Dass
+CWID - 10416575
+SSW - 555-A - Agile methods of software development
+
+Q1 - How are user stories similar to use cases?
+Ans- User stories and use cases are similar in a way that they both have similar functions of capturing the requirements for implementing some changes in the
+     software. Both user stories and uses cases are used by the developers to reach the best solution for implementing those changes. A user story is similar to 
+     a use case, but a use case also describes a specifiec interaction of the software with the user. Both Use cases and User stories can be used to categorize
+     the requirements snf oragnize them, so that the changes can be made effectively. They can also be used during the testing phase, to check if the user 
+     requirements are met or not.
+
+Q2 - How are user stories different from use -cases?
+Ans- Though both use case and user stories perform the same function, but differ a lot in their functioning. First of all, user stories follows the Agile method for 
+     gathering user requirements. The biggest difference between these two is that, before handling the requirements to the developers, a use case captures the
+     detailed requirements of user interaction with the software, whereas, on the other hand, a user story captures the requirements without going in to details of 
+     those requirements, because this information can be changed at a later phase; and it also prioritize the requirements so that important requirements are 
+     fulfilled first. Ultimately, a user story is better than a use case, because it covers more requirements that a use case and also it provides enough details to
+     remove ambiguity. 
+
+Q3 - Give an example of user story for a college registration system.
+Ans- User story for a college registration system.
+
+	________________________________________________________________________________________________________________________________________________
+	|																		|
+	|	* Students can pay their fees online via Credit cards, Debit Cards, PayPal or Wire Transfer.				Priority:1 	|
+	|	* Students can select or drop courses online for the current semester.							Priority:1	|
+	|	* Students can view all their selected courses with their informations.							Priority:3	| 
+	|	* Professors can post and update studens marks/grades online with some comments.					Priority:3	|
+	|	* Students can view events taking place in the campus.									Priority:5	|
+	|	* Students can order and view transcripts online.									Priority:4	|
+	|	* Students can interact with other students, professors and TAs.							Priority:2	|
+	|	* Students can update their profile with necessary description visible to everyone student and professor. 		Priority:4	|
+	|	* Students can view their exam dates and bookmark important dates.							Priority:4	|	
+	|	* Students and Professors can view their schedule online.								Priority:5	|
+	|	* Students can be notified everytime a professor changes their grades or upload a new module or a deadline approaches.	Priority:4	|
+	|	* Students can be able to view assignments and other pdfs and ppt files online.						Priority:2	|
+	|	* Students and professors can maintain a to-do list for managing their schedule.					Priority:5	|
+	|	* Students can make their own group to work on assignments or projects.							Priority:2	|
+	|	* Students can make appointments to meet professors or their advisors.							Priority:4	|
+	|_______________________________________________________________________________________________________________________________________________|
+
+Q4 - Give a corresponding use case for a college registration system.
+Ans-  
+	STUDENTS   - __________
+	PROFESSORS - ----------
+	UNIVERSITY - ========== 
+     	 _______________________________________________________________________________________________________________________________________________
+	|								 __________									|
+	|		     ___________________________________________| PAY FEES |========================================				|
+	|     		    |						|__________|					    |				|
+	|		    |												    |				|
+	|		    |						 _________________				    |				|
+	|		    |__________________________________________	| ADD/DROP COURSES|=================================|				|
+	|     		    |						|_________________|				    |				|
+	|		    |												    |				|
+	|		    |						 ___________________				    |				|
+	|		    |__________________________________________	|VIEW COURSE DETAILS|===============================|				|
+	|     		    |-------------------------------------------|___________________|				    |				|
+	|	 _________  |												    |				|
+	|	|STUDENTS |-|						 ___________________				    |	________________	|
+	|	|_________| |___________________________________________| ORDER TRANSCRIPTS |==================================|UNIVERSITY	|	|
+	|     		    |						|___________________|				    |  |________________|	|
+	|		    |												    |				|
+	|		    |						 ______________					    |				|
+	|      ___________  |___________________________________________| VIEW SCHEDULE|====================================|				|
+	|     |PROFESSORS |-|-------------------------------------------|______________|				    |				|
+        |     |___________| |												    |				|
+	|		    |						 _______________________________		    |				|
+	|		    |___________________________________________| Student-Professor Interaction |===================| 				|
+	|     		    |-------------------------------------------|_______________________________|						|
+	|_______________________________________________________________________________________________________________________________________________|
+		
+Q5 - Explain how your two examples support your two answers to the first two questions?
+Ans- The above user story and use cases does the same thing of collecting requirements for developing the college registrations system. But, both these system,
+     works very differently. The use case diagram only considers a few important requirements which are necessary to build the system. The use case diagram also 
+     represents that how the actors, which are the university, Students and proefssors interact with each other and how they are connected to the requirements.
+     Whereas on the other hand the user story gathers more information/requirements which are necessary for building the college registration system and prioritize	
+     according to their necessity. Therefore, the user story provides the necessary requirements required and also provides some extra non-essesntial requirements           which can be implemented at a later time. Thus its always better to have more requirements, rather than having only few requirements. Thus the above use case           provides detailed informations about only a handfull of requirements, whereas on the other hand a user story provides necessary requirements along with some           "currently" non-esential requriements with fewer details.
