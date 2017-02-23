@@ -1,0 +1,27 @@
+Name 	- Arjun Dass
+Coarse 	- Agile Methods of Software Development (SSW-555-A)
+CWID 	- 10416575
+
+************************************************************* PROJECT 01 **************************************************
+
+Plan Driven - Plan Driven Software Development process is the one in which all the activities and processes are planned prior to the development and all these activies are measured against a plan. 
+Agile Process - Its a planned and incremental way of developing a software in which it is easier to change the plan in order to implement new changes, according the chnages in customer requirements. 
+
+Principle 1 - Welcome Changing requirements, even late in development. Agile processes harness change in for the customer's competitive advantage.
+In plan driven procedures, since the development undergoes in accordance with the plan, new user requirements are difficult to implement. You have to go back to a particular point to implements the changes in the product. Agile method is an iterative process in which product are updated according to the requirements, therefore it takes care of user's ever-changing requirements and implements the changes accordingly.
+
+Principle 2 - Deliver working software frequently,from a couple of weeks to a couple of months, with a preference to the shorter timescale.
+In plan driven, we have to deliver a fully functional software after a specific amount of time. This results in wastage of efforts if the user has changed his requirements by that time. Whereas, in case of Agile methods, we deliver a small working product after a short period of time. This allows the developers to implement new changes, if the user has changed his requirements. Therefore, the developers will then deliver a new products which fulfills the new user requirements. 
+
+Principle 3 - Business people and developer must work together daily throughout the project. 
+In plan driven, the business people gathers all the user requirements at the initial phase and then asks the developers to build the product according to those requirements, which results in a product which serves the user requirements for a specific amount of time. Whereas, in Agile,business people and developer both work together to meet the user requirements. Business people gathers the latest the user requirements and developers implements the changes to the existing product. 
+
+
+Advantages and Disadvantages for Small Teams :-
+
+Agile methods for smaller teams its easier to communicate with other team members, which will help the business people to give a more detailed user requirements to the developers. The iterative process of development can be applied to any size of work group. It is easire to implement pair programming in small teams, which allows more code sharing. The end product after each iteration will be able to meet all user requirements because of good communication between the business people nad the developers. However, for smaller teams it becomes difficult for the business people to gather all the requirements, and similarly for the developers it becomes to difficult to cover all the requirements in a specific period time. Therefore, sometimes working in small groups may result in delayed delivery.
+
+
+Advantages and disadvantages for Large Teams :-
+
+Working in large teams with Agile methodology, helps in delivering the product much faster than working in smaller teams. Business people will be able to almost all the user requirements and developerscan work in teams and work one a particular module, thus speeding up the process of development. A large team is capable of covering of most of the user requirements in a small shorter period of time. But, large team suffers from communication problem. As the size of the team get bigger, it becomes harder to communicate with every team of person. Another proble which large teams faces is decision making. Difference in opinions can sometimes go wrong fot he entire team. Its also much difficult to implement pair programming in large teams. Its also necessary for a large to team have shared knwoledge and skills which is difficult to achieve.
