@@ -17,7 +17,7 @@ public static void main(String[] strings) {
         } else {
 
             if ((y1 <= 100.0D)) {
-                System.out.println("The point is in the triangle");
+                System.out.println("The point lies inside the triangle");
             } else {
                 System.out.println("The point is not in the triangle.");
             }
