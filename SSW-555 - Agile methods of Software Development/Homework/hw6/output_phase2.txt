@@ -1,0 +1,4 @@
+C:\Python\python.exe C:/Users/kinny/Downloads/hw6/hw6_Phase_2.py
+No of days between 2000-01-01 and 2016-10-03 are 6120
+No of months between 2000-01-01 and 2016-10-03 are 201
+No of years between 2000-01-01 and 2016-10-03 are 16
