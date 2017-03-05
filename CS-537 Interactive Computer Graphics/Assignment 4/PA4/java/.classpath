@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path=""/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/JOGL-V2.0"/>
+	<classpathentry kind="lib" path="C:/Users/kinny/Downloads/jogamp-all-platforms/jar/gluegen.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kinny/Downloads/jogamp-all-platforms/jar/gluegen-rt.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kinny/Downloads/jogamp-all-platforms/jar/gluegen-rt-natives-windows-amd64.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kinny/Downloads/jogamp-all-platforms/jar/jogl-all.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kinny/Downloads/jogamp-all-platforms/jar/jogl-all-natives-windows-amd64.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kinny/Downloads/jogamp-all-platforms/jar/atomic/gluegen-gl.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kinny/Downloads/jogamp-all-platforms/jar/atomic/jogl-awt.jar"/>
+	<classpathentry kind="output" path=""/>
+</classpath>
